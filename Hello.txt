@@ -3,4 +3,7 @@ public class Hello{
 Hello World
 print
 java
+python
+jquery
+css
 }
